@@ -1,0 +1,192 @@
+Algunas:rg   
+de:sps00   
+estas:dd0fp0   
+afirmaciones:ncfp000   
+puede :vmip3p0   
+ser:vsn0000   
+exageradas:aq0cs0   
+pero:cc   
+otras:sn.e-SUJ   
+tiene :vmip3p0   
+buena:aq0fs0   
+evidencia:vmip3s0   
+que:cs   
+las:da0fp0   
+sustenta :ncfp000   
+El:da0ms0   
+viernes:W   
+al:spcms   
+terminar:vmn0000   
+el:da0ms0   
+d\xc3\xada:ncms000   
+los:da0mp0   
+hospitales:ncmp000   
+y:cc   
+los:da0mp0   
+servicios:ncmp000   
+de:sps00   
+emergencia:ncfs000   
+operaba :aq0fs0   
+para:sps00   
+dar:vmn0000   
+auxilio:rg   
+a:sps00   
+los:da0mp0   
+heridos:ncmp000   
+seg\xc3\xba :sps00   
+las:da0fp0   
+im\xc3\xa1genes:ncfp000   
+de:sps00   
+la:da0fs0   
+televisi\xc3\xb3 :ncfs000   
+egipcia:aq0fs0   
+Lo:da0ns0   
+m\xc3\xa1s:rg   
+incre\xc3\xadble:aq0cs0   
+del:spcms   
+v\xc3\xaddeo:ncms000   
+es:vsip3s0   
+que:cs   
+e :sps00   
+ninguna:di0fs0   
+impresora:ncfs000   
+hay:vaip3s0   
+atasco:vmp00sm   
+de:sps00   
+papel:ncms000   
+El:da0ms0   
+presidente:ncms000   
+estadounidense:aq0cs0   
+Donald:cc   
+Trump:sn.e-SUJ   
+conden\xc3\xb3:vmis3s0   
+e :sps00   
+u :di0ms0   
+tuit:ncms000   
+el:da0ms0   
+horrible:aq0cs0   
+y:cc   
+cobarde:da0ms0   
+ataque:ncms000   
+La:da0fs0   
+miel:ncfs000   
+de:sps00   
+abeja:np0000p   
+se:p0300000   
+ha:vaip3s0   
+utilizado:vmp00sm   
+terap\xc3\xa9uticamente:rg   
+a:sps00   
+lo:da0ns0   
+largo:aq0ms0   
+de:sps00   
+la:da0fs0   
+historia:ncfs000   
+La:da0fs0   
+miel:ncfs000   
+tienen:vmip3s0   
+propiedades:ncfp000   
+ideales:aq0fp0   
+y:cc   
+comprobadas:vmn0000   
+para:sps00   
+el:da0ms0   
+vendaje:ncms000   
+de:sps00   
+heridas:ncfp000   
+U :di0ms0   
+bloque:ncms000   
+que:pr0cn000   
+Puigdemont:p0000000   
+ha:vaip3s0   
+situado:vmp00sm   
+e :sps00   
+el:da0ms0   
+bando:ncms000   
+de:sps00   
+la:da0fs0   
+represi\xc3\xb3 :ncfs000   
+y:cc   
+el:da0ms0   
+miedo:ncms000   
+Si :sps00   
+embargo:vmn0000   
+estas:dd0fp0   
+propiedades:ncfp000   
+no:rn   
+solo:p0000000   
+est\xc3\xa1 :vmip3p0   
+relacionadas:aq0fpp   
+co :sps00   
+la:da0fs0   
+miel:ncfs000   
+de:sps00   
+manuka:cs   
+se:p0000000   
+dar\xc3\xa1 :vmif3p0   
+tambi\xc3\xa9 :rg   
+co :sps00   
+otros:di0mp0   
+tipos:ncmp000   
+de:sps00   
+mieles:ncfp000   
+de:sps00   
+abeja:da0fp0   
+Hasta:sps00   
+el:da0ms0   
+momento:ncms000   
+ning\xc3\xba :di0ms0   
+grupo:ncms000   
+reivindica:sps00   
+el:da0ms0   
+ataque:ncms000   
+Una:di0fs0   
+parte:ncfs000   
+m\xc3\xadnima:aq0fs0   
+de:sps00   
+la:da0fs0   
+miel:ncfs000   
+de:sps00   
+manuka:np0000l   
+tiene:vmip3s0   
+distintos:di0mp0   
+usos:ncmp000   
+pero:cc   
+la:da0fs0   
+mayor:aq0cs0   
+parte:ncfs000   
+de:sps00   
+la:da0fs0   
+miel:ncfs000   
+de:sps00   
+manuka:da0ns0   
+que:pr0cn000   
+se:p0000000   
+vende:vmip3s0   
+e :sps00   
+todo:di0ms0   
+el:da0ms0   
+mundo:ncms000   
+se:p0300000   
+come:vmip3s0   
+Testigos:sn.e-SUJ   
+indicaro :vmis3p0   
+que:cs   
+los:da0mp0   
+atacantes:nccp000   
+posicionaro :spcms   
+alrededor:ncms000   
+de:sps00   
+la:da0fs0   
+mezquitas:ncfs000   
+veh\xc3\xadculos:sps00   
+todo:di0ms0   
+terreno:ncms000   
+y:cc   
+luego:rg   
+colocaro :vmis3p0   
+una:di0fs0   
+bomba:ncfs000   
+fuera:rg   
+del:spcms   
+recinto:ncms000

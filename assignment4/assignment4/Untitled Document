@@ -1,0 +1,5 @@
+Execution Steps-
+
+classify.py is the file that contains the Python script to run and execute the assignment. Use this file to execute the program. The output of the file will display the accuracies of the models.
+
+The visualization is obtained by taking the output of python script and feeding it into Rscript. The path /Rscript/FrequentWordsVisualisation is the R project required to execute the R script. The Visualization.pdf file present in the root directory of the assignment is the output visualization from the R Script. 

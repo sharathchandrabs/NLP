@@ -1,0 +1,5 @@
+Line is here.
+this is a sentence.
+this is not a sentence.
+this is! 
+this is a sentence!

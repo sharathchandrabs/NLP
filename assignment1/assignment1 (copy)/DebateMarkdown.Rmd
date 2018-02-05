@@ -1,0 +1,15 @@
+---
+title: "Visualization of Question 7.f"
+author: "Sharath Chandra"
+date: "September 15, 2017"
+output: html_document
+---
+
+```{r,echo=FALSE}
+print("From the output of debateAnalysis.py we now know the values of word counts-> Lehrer = 83, Obama = 162 and Romney = 135")
+count<- c(83 , 162, 135)
+names = c("Lehrer", "Obama", "Romney")
+barplot(count,names.arg=names,ylim=c(0,200),xlab='Speakers',ylab='Positive Word Count',axisnames=TRUE)
+
+```
+

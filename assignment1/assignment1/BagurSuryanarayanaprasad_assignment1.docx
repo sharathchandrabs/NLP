@@ -1,0 +1,53 @@
+-----------Question 1---------
+colorless
+green
+ideas
+sleep
+furiously
+ordlu
+['colorless', 'green', 'ideas']
+colorless green ideas
+colorless furiously green ideas sleep
+Enter a Sentence:she sells sea shells by the sea shore
+
+
+-----------Question 2---------
+{'she': 1, 'shore': 1, 'shells': 1, 'sells': 1, 'by': 1, 'sea': 2, 'the': 1}
+
+
+---------------Question 3----------------------
+3a. \b(a|an|the)\b
+3b. ([-+]?[0-9]*\.?[0-9]+[\/\+\-\*])+([-+]?[0-9]*\.?[0-9]+)
+
+
+-----------Question 4---------
+['hart@vmd.cso.uiuc.edu', '72600.2026@compuserve.com', 'Martin.Ward@uk.ac.durham', 'ccx074@coventry.ac.uk']
+
+
+-----------Question 5---------
+Q5.Enter File Name(use existing input.txt if needed):input.txt
+
+
+Open generated outputfile.txt to check for duplicate lines removed
+
+
+
+-----------Question 6---------
+The code iterates over the given input file one line after the other. Program will break when it encounters an empty line or a line which starts with # symbol. Further it replaces the symbol '(' with '(.' and ')' with '.)', after which it returns everythiong with brackets '()'.
+
+
+-----------Question 7---------
+Porter stemmer output for Lehrer:	 [('minut', 17), ('way', 18), ('let', 19), ('right', 20), ('romney', 21), ('presid', 22), ('two', 22), ('govern', 22), ('governor', 26), ('go', 29)]
+Snowball stemmer output for Lehrer:	 [('minut', 17), ('way', 18), ('let', 19), ('right', 20), ('romney', 21), ('presid', 22), ('two', 22), ('govern', 22), ('governor', 26), ('go', 29)]
+Lancaster stemmer output for Lehrer:	 [('minut', 17), ('way', 18), ('let', 19), ('right', 20), ('romney', 21), ('presid', 22), ('two', 22), ('govern', 22), ('governor', 26), ('go', 29)]
+Porter stemmer output for Obama:	 [('let', 29), ('know', 29), ('got', 31), ('tax', 32), ('weve', 32), ('that', 35), ('romney', 39), ('governor', 46), ('go', 50), ('make', 52)]
+Snowball stemmer output for Obama:	 [('let', 29), ('know', 29), ('got', 31), ('tax', 32), ('weve', 32), ('that', 35), ('romney', 39), ('governor', 46), ('go', 50), ('make', 52)]
+Lancaster stemmer output for Obama:	 [('let', 29), ('know', 29), ('got', 31), ('tax', 32), ('weve', 32), ('that', 35), ('romney', 39), ('governor', 46), ('go', 50), ('make', 52)]
+Porter stemmer output for Romney:	 [('job', 28), ('busi', 28), ('plan', 31), ('that', 33), ('cut', 40), ('presid', 41), ('go', 52), ('get', 56), ('tax', 60), ('peopl', 61)]
+Snowball stemmer output for Romney:	 [('job', 28), ('busi', 28), ('plan', 31), ('that', 33), ('cut', 40), ('presid', 41), ('go', 52), ('get', 56), ('tax', 60), ('peopl', 61)]
+Lancaster stemmer output for Romney:	 [('job', 28), ('busi', 28), ('plan', 31), ('that', 33), ('cut', 40), ('presid', 41), ('go', 52), ('get', 56), ('tax', 60), ('peopl', 61)]
+Lehrer positive words:  [('afford', 5), ('time', 5), ('kind', 5), ('come', 7), ('close', 7), ('health', 10), ('well', 10), ('state', 11), ('care', 15), ('right', 20)] total: 83
+Obama positive words: [('reason', 11), ('educ', 12), ('abl', 12), ('come', 13), ('like', 14), ('health', 17), ('help', 17), ('care', 19), ('sure', 21), ('well', 23)] total: 162
+Romney positive words: [('sure', 9), ('kind', 9), ('believ', 10), ('health', 10), ('time', 12), ('care', 13), ('like', 14), ('state', 21), ('well', 21), ('right', 24)] total: 135
+Total Positive words of every speaker is logged into topPositiveWords.csv
+
